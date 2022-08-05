@@ -38,10 +38,6 @@ export const options = {
     },
   };
 
-type Props = {
-    data: any;
-}
-
 const DoughnutComp = () => {
   return (
     <>
